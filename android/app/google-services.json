@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "766924281931",
+    "project_id": "backbonz-2959b",
+    "storage_bucket": "backbonz-2959b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766924281931:android:8ddb7792cf53fced6c15ce",
+        "android_client_info": {
+          "package_name": "com.backbonz.backbonz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766924281931-q9idnvm43t6k9skmgntil51t21uc73ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK0trw_853qCyrbTQmG7tn6W1WqCnXP-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766924281931-q9idnvm43t6k9skmgntil51t21uc73ep.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "766924281931-veo6bh64j9k451tdvc3b7t0nc07e9afg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.backbonz.backbonz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
